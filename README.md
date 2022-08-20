@@ -6,6 +6,7 @@ I develop front-end and back-end for web applications.
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=111&logoColor=bf91f3&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=GO&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![python](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=111&logoColor=bf91f3&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
