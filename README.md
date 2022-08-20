@@ -32,7 +32,7 @@ I develop front-end and back-end for web applications.
 ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square) 
 &nbsp;&nbsp;&nbsp;
 
 <img align="left" alt="Telegram" src="https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square" />
@@ -43,6 +43,10 @@ I develop front-end and back-end for web applications.
 </a> <a href="https://www.instagram.com/amfus_">
   <img align="left" alt="Instagram" src="https://img.shields.io/static/v1?label=&message=instagram&color=111&logoColor=AAA&style=flat-square" />
 </a>
+    
+---
+    
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdwitr0&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 <!--
 **mdwitr0/mdwitr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
