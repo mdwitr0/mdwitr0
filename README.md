@@ -1,6 +1,6 @@
 ## Hi, I'm Evgenii 👋
 
-I develop front-end and back-end for web applications.
+
 
 ## Technology that I use every day
 
