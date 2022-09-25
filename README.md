@@ -4,6 +4,10 @@ I'm a TypeScript and Go software developer at HyperFlex.
 
 I've started a challenge where i'll be developing projects for open source and for my soul every day for a year.
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdwitr0&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)]([https://git.io/streak-stats](https://github.com/mdwitr0))
+ 
+ ---
+
 ## Technology that I use every day
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
@@ -49,8 +53,6 @@ I've started a challenge where i'll be developing projects for open source and f
 </a>
 
 ---
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdwitr0&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)]([https://git.io/streak-stats](https://github.com/mdwitr0))
   
 <!--
 **mdwitr0/mdwitr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
