@@ -1,6 +1,8 @@
 ## Hi, I'm Evgenii 👋
 
+I'm a TypeScript and Go software developer at HyperFlex.
 
+I've started a challenge where i'll be developing projects for open source and for my soul every day for a year.
 
 ## Technology that I use every day
 
