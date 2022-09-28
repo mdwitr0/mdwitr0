@@ -30,6 +30,12 @@ I've started a challenge where i'll be developing projects for open source and f
 ![Elasticsearch](https://img.shields.io/static/v1?logo=Elasticsearch&label=&message=Elasticsearch&color=111&logoColor=bf91f3&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 
+![Others](https://img.shields.io/static/v1?label=&message=Databases:&color=555&style=flat-square)
+![gRPC](https://img.shields.io/static/v1?logo=grpc&label=&message=gRPC&color=111&logoColor=bf91f3&style=flat-square&link=)
+![RabbitMQ](https://img.shields.io/static/v1?logo=rabbitmq&label=&message=RabbitMQ&color=111&logoColor=bf91f3&style=flat-square&link=)
+![BullMQ](https://img.shields.io/static/v1?logo=bullmq&label=&message=BullMQ&color=111&logoColor=bf91f3&style=flat-square&link=)
+
+
 ![Front-End](https://img.shields.io/static/v1?label=&message=Front-End&nbsp;frameworks:&color=555&style=flat-square)
 ![vue.js](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue.js&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![nuxt.js](https://img.shields.io/static/v1?logo=nuxt.js&label=&message=Nuxt.js&color=111&logoColor=bf91f3&style=flat-square&link=)
