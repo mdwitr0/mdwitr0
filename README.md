@@ -34,6 +34,8 @@ I've started a challenge where i'll be developing projects for open source and f
 ![gRPC](https://img.shields.io/static/v1?logo=grpc&label=&message=gRPC&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![RabbitMQ](https://img.shields.io/static/v1?logo=rabbitmq&label=&message=RabbitMQ&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![BullMQ](https://img.shields.io/static/v1?logo=bullmq&label=&message=BullMQ&color=111&logoColor=bf91f3&style=flat-square&link=)
+![Prisma ORM](https://img.shields.io/static/v1?logo=prisma&label=&message=Prisma&color=111&logoColor=bf91f3&style=flat-square&link=)
+![TypeORM](https://img.shields.io/static/v1?logo=typeorm&label=&message=TypeORM&color=111&logoColor=bf91f3&style=flat-square&link=)
 
 
 ![Front-End](https://img.shields.io/static/v1?label=&message=Front-End&nbsp;frameworks:&color=555&style=flat-square)
