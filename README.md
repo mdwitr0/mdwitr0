@@ -39,9 +39,8 @@ I've started a challenge where i'll be developing projects for open source and f
 
 
 ![Front-End](https://img.shields.io/static/v1?label=&message=Front-End&nbsp;frameworks:&color=555&style=flat-square)
+![react.js](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue.js&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![vue.js](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue.js&color=111&logoColor=bf91f3&style=flat-square&link=)
-![nuxt.js](https://img.shields.io/static/v1?logo=nuxt.js&label=&message=Nuxt.js&color=111&logoColor=bf91f3&style=flat-square&link=)
-![quasar](https://img.shields.io/static/v1?logo=quasar&label=&message=quasar&color=111&logoColor=bf91f3&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 
 ![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=555&style=flat-square)
