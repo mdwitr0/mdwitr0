@@ -39,7 +39,7 @@ I've started a challenge where i'll be developing projects for open source and f
 
 
 ![Front-End](https://img.shields.io/static/v1?label=&message=Front-End&nbsp;frameworks:&color=555&style=flat-square)
-![react.js](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue.js&color=111&logoColor=bf91f3&style=flat-square&link=)
+![react.js](https://img.shields.io/static/v1?logo=react.js&label=&message=react.js&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![vue.js](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue.js&color=111&logoColor=bf91f3&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 
