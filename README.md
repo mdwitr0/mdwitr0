@@ -11,13 +11,14 @@ I've started a challenge where i'll be developing projects for open source and f
 ## Technology that I use every day
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
-![typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=GO&color=111&logoColor=bf91f3&style=flat-square&link=)
+![typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![python](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=111&logoColor=bf91f3&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 
 ![Back-End](https://img.shields.io/static/v1?label=&message=Back-End&nbsp;frameworks:&color=555&style=flat-square)
+![fiber](https://img.shields.io/static/v1?logo=fiber&label=&message=Fiber&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![nestjs](https://img.shields.io/static/v1?logo=nestjs&label=&message=Nest.js&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=111&logoColor=bf91f3&style=flat-square&link=)
 ![expressjs](https://img.shields.io/static/v1?logo=express&label=&message=express&color=111&logoColor=bf91f3&style=flat-square&link=)
